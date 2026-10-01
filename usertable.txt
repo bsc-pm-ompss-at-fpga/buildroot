@@ -1,0 +1,1 @@
+testusr -1 users -1 =test /home/testusr /bin/sh
