@@ -1,0 +1,1 @@
+cmd_drivers/meep-pcie-ethernet/built-in.a := rm -f drivers/meep-pcie-ethernet/built-in.a; /nfs/home/bsc15/bsc15914/sources/2024_buildroot/output/host/bin/riscv64-buildroot-linux-gnu-ar cDPrST drivers/meep-pcie-ethernet/built-in.a drivers/meep-pcie-ethernet/meep-eth.o
